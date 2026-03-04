@@ -1,0 +1,5 @@
+def ievade()
+def cuk_daudz()
+def kop_iz()
+def gal_masa()
+def izvade()
